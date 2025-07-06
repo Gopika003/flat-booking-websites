@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-container {
+    background-image: url("Modern living room in Luxury, Living Room, Home Interior, Indoors, Modern_ generative ai.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: "Bree Serif";
+
+}
+
+.home-card-card {
+    background-color: white;
+    height: 30vh;
+    width: 100vw;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.heading {
+    color: #f19116;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.paragraph {
+    color: #7b8794;
+}
+
+.button {
+    color: white;
+    background-color: #f19116;
+    border-radius: 5px;
+    border-width: 0px;
+    width: 90px;
+    font-size: 15px;
+    height: 40px;
+    margin: 20px;
+}
+
+.flat-list-container {
+
+    background-color: black;
+    height: 100vh;
+    color: #f19116;
+    text-align: left;
+    padding: 20px;
+    font-family: "Bree Serif";
+}
+
+.flat-list-card {
+    height: 25vh;
+    width: 95vw;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.flat-heading {
+    color: #0f0e46;
+    padding: 10px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.flat-paragraph {
+    color: #6c6b70;
+    padding: 10px;
+}
+
+.bhk-first-container {
+    background-image: url("3 BHK Flat Designed In DNR Atmosphere Bangalore | DesignCafe.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.plain-card {
+    background-color: #222222;
+    height: 65vh;
+}
+
+.plain-heading {
+    color: #f19116;
+    text-align: left;
+    padding: 20px;
+
+}
+
+.plain-paragraph {
+    color: white;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.image {
+    height: 30px;
+    margin-left: 30px;
+}
+
+.bhk-second-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.bhk-third-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.flat-image{
+
+   height: 25vh;
+    width: 11vw;
+    background-color:white;
+    border-radius: 10px;
+}
